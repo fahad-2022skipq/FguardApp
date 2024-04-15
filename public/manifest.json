@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "fguard",
+  "name": "fguard - security your passwords",
   "icons": [
     {
       "src": "favicon.ico",
